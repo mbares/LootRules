@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 0b91f367fe893224e93e5932c43f0960
+timeCreated: 1464866480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Knight (2)_0
+    21300002: Knight (2)_1
+    21300004: Knight (2)_2
+    21300006: Knight (2)_3
+    21300008: Knight (2)_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Knight (2)_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 338
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.699997, y: -20.699997}
+        - {x: 111.7, y: -23.699997}
+        - {x: 135.7, y: 0.30000305}
+        - {x: 135.7, y: 120.3}
+        - {x: 133.7, y: 137.3}
+        - {x: 85.7, y: 153.3}
+        - {x: 57.699997, y: 68.3}
+        - {x: 17.699997, y: 74.3}
+        - {x: 31.699997, y: 151.3}
+        - {x: 8.699997, y: 188.3}
+        - {x: -84.3, y: 188.3}
+        - {x: -85.3, y: 187.3}
+        - {x: -87.3, y: 69.3}
+        - {x: -127.3, y: 60.300003}
+        - {x: -135.3, y: 23.300003}
+        - {x: -135.3, y: -62.699997}
+        - {x: -113.3, y: -94.7}
+        - {x: -116.3, y: -171.7}
+        - {x: -91.3, y: -186.7}
+        - {x: 55.699997, y: -186.7}
+    - name: Knight (2)_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 338
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.80002, y: -180.5}
+        - {x: 56.80002, y: -79.5}
+        - {x: 34.80002, y: 3.5}
+        - {x: 96.80002, y: -9.5}
+        - {x: 111.80002, y: -12.5}
+        - {x: 136.80002, y: 12.5}
+        - {x: 136.80002, y: 139.5}
+        - {x: 114.80002, y: 159.5}
+        - {x: 71.80002, y: 139.5}
+        - {x: 63.80002, y: 71.5}
+        - {x: 18.800018, y: 85.5}
+        - {x: 32.80002, y: 162.5}
+        - {x: 9.800018, y: 199.5}
+        - {x: -92.19998, y: 199.5}
+        - {x: -131.19998, y: 78.5}
+        - {x: -135.19998, y: 34.5}
+        - {x: -135.19998, y: -73.5}
+        - {x: -112.19998, y: -149.5}
+        - {x: -64.19998, y: -199.5}
+        - {x: -30.199982, y: -199.5}
+        - {x: -40.19998, y: -170.5}
+        - {x: -6.1999817, y: -199.5}
+        - {x: 35.80002, y: -199.5}
+    - name: Knight (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 31
+        width: 306
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.400024, y: -86.7}
+        - {x: 47.400024, y: -49.699997}
+        - {x: 87.400024, y: -1.699997}
+        - {x: 123.400024, y: 43.300003}
+        - {x: 123.400024, y: 59.300003}
+        - {x: 122.400024, y: 60.300003}
+        - {x: 113.400024, y: 98.3}
+        - {x: 64.400024, y: 146.3}
+        - {x: 20.400024, y: 188.3}
+        - {x: -71.599976, y: 188.3}
+        - {x: -72.599976, y: 187.3}
+        - {x: -75.599976, y: 69.3}
+        - {x: -113.599976, y: 60.300003}
+        - {x: -122.599976, y: 9.300003}
+        - {x: -122.599976, y: -83.7}
+        - {x: -107.599976, y: -119.7}
+        - {x: -98.599976, y: -164.7}
+        - {x: -76.599976, y: -186.7}
+        - {x: -26.599976, y: -186.7}
+        - {x: -27.599976, y: -170.7}
+        - {x: 4.4000244, y: -186.7}
+        - {x: 64.400024, y: -186.7}
+    - name: Knight (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 31
+        width: 403
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116.70007, y: -4.699997}
+        - {x: 161.70007, y: 68.3}
+        - {x: 161.70007, y: 98.3}
+        - {x: 160.70007, y: 99.3}
+        - {x: 128.70007, y: 99.3}
+        - {x: 55.700073, y: 53.300003}
+        - {x: 37.700073, y: 60.300003}
+        - {x: -7.2999268, y: 74.3}
+        - {x: 6.7000732, y: 151.3}
+        - {x: -16.299927, y: 188.3}
+        - {x: -109.29993, y: 188.3}
+        - {x: -110.29993, y: 187.3}
+        - {x: -112.29993, y: 69.3}
+        - {x: -153.29993, y: 61.300003}
+        - {x: -161.29993, y: 10.300003}
+        - {x: -161.29993, y: -72.7}
+        - {x: -141.29993, y: -90.7}
+        - {x: -150.29993, y: -170.7}
+        - {x: -118.29993, y: -186.7}
+        - {x: 36.700073, y: -186.7}
+        - {x: 44.700073, y: -176.7}
+        - {x: 19.700073, y: -15.699997}
+    - name: Knight (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 31
+        width: 339
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.599976, y: -16.699997}
+        - {x: 111.599976, y: -23.699997}
+        - {x: 136.59998, y: 12.300003}
+        - {x: 136.59998, y: 98.3}
+        - {x: 135.59998, y: 129.3}
+        - {x: 90.599976, y: 148.3}
+        - {x: 81.599976, y: 126.3}
+        - {x: 66.599976, y: 18.300003}
+        - {x: 60.599976, y: 63.300003}
+        - {x: 36.599976, y: 100.3}
+        - {x: 21.599976, y: 188.3}
+        - {x: -84.400024, y: 188.3}
+        - {x: -85.400024, y: 187.3}
+        - {x: -88.400024, y: 69.3}
+        - {x: -127.400024, y: 61.300003}
+        - {x: -135.40002, y: 10.300003}
+        - {x: -135.40002, y: -72.7}
+        - {x: -115.400024, y: -90.7}
+        - {x: -118.400024, y: -170.7}
+        - {x: -48.400024, y: -186.7}
+        - {x: -1.4000244, y: -186.7}
+        - {x: -0.4000244, y: -170.7}
+        - {x: 50.599976, y: -161.7}
+        - {x: 50.599976, y: -82.7}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

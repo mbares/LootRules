@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 65a6f466c9f544d45ba80b231654b135
+timeCreated: 1466249733
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cowboy_0
+    21300002: cowboy_1
+    21300004: cowboy_2
+    21300006: cowboy_3
+    21300008: cowboy_4
+    21300010: cowboy_5
+    21300012: cowboy_6
+    21300014: cowboy_7
+    21300016: cowboy_8
+    21300018: cowboy_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cowboy_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 94
+        width: 550
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.91961, y: 84.092155}
+        - {x: -57.08039, y: 84.092155}
+        - {x: -69.08039, y: 79.092155}
+        - {x: -69.08039, y: -76.907845}
+        - {x: -54.08039, y: -82.907845}
+        - {x: 29.91961, y: -82.907845}
+        - {x: 69.91961, y: -25.907845}
+        - {x: 69.91961, y: 46.092155}
+    - name: cowboy_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 94
+        width: 470
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.9705963, y: -82.907845}
+        - {x: 29.970596, y: -82.907845}
+        - {x: 55.970596, y: -58.907845}
+        - {x: 59.970596, y: -36.907845}
+        - {x: 59.970596, y: 26.092155}
+        - {x: 30.970596, y: 84.092155}
+        - {x: -34.029404, y: 84.092155}
+        - {x: -49.029404, y: 54.092155}
+        - {x: -59.029404, y: 28.092155}
+        - {x: -59.029404, y: -46.907845}
+        - {x: -29.029404, y: -82.907845}
+        - {x: -5.0294037, y: -82.907845}
+        - {x: -4.0294037, y: -81.907845}
+        - {x: -4.0294037, y: -77.907845}
+        - {x: -6.0294037, y: -75.907845}
+    - name: cowboy_2
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 94
+        width: 530
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4783936, y: -82.907845}
+        - {x: 46.521606, y: -82.907845}
+        - {x: 67.52161, y: -15.907845}
+        - {x: 67.52161, y: 76.092155}
+        - {x: 61.521606, y: 84.092155}
+        - {x: -52.478394, y: 84.092155}
+        - {x: -66.47839, y: 76.092155}
+        - {x: -66.47839, y: -46.907845}
+        - {x: -36.478394, y: -82.907845}
+        - {x: -12.478394, y: -82.907845}
+        - {x: -11.478394, y: -81.907845}
+        - {x: -11.478394, y: -77.907845}
+        - {x: -13.478394, y: -75.907845}
+    - name: cowboy_3
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 94
+        width: 550
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.9313354, y: -82.907845}
+        - {x: 22.068665, y: -82.907845}
+        - {x: 70.068665, y: -28.907845}
+        - {x: 70.068665, y: 25.092155}
+        - {x: 42.068665, y: 84.092155}
+        - {x: -43.931335, y: 84.092155}
+        - {x: -68.931335, y: 42.092155}
+        - {x: -68.931335, y: -48.907845}
+        - {x: -57.931335, y: -82.907845}
+        - {x: -12.931335, y: -82.907845}
+        - {x: -12.931335, y: -77.907845}
+        - {x: -14.931335, y: -75.907845}
+    - name: cowboy_4
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 78
+        width: 549
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.11963, y: 86.07647}
+        - {x: -68.88037, y: 86.07647}
+        - {x: -68.88037, y: -39.92353}
+        - {x: -39.88037, y: -84.92353}
+        - {x: 32.11963, y: -84.92353}
+        - {x: 70.11963, y: -8.923531}
+        - {x: 70.11963, y: 22.07647}
+        - {x: 63.11963, y: 35.07647}
+    - name: cowboy_5
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 94
+        width: 550
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.080322, y: 84.092155}
+        - {x: -69.08032, y: 41.092155}
+        - {x: -69.08032, y: -56.907845}
+        - {x: -37.080322, y: -82.907845}
+        - {x: 38.919678, y: -82.907845}
+        - {x: 69.91968, y: -29.907845}
+        - {x: 69.91968, y: 38.092155}
+        - {x: 39.919678, y: 84.092155}
+    - name: cowboy_6
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 141
+        width: 550
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.970703, y: 65.88824}
+        - {x: -56.029297, y: 65.88824}
+        - {x: -69.0293, y: 26.888237}
+        - {x: -69.0293, y: -56.111763}
+        - {x: -52.029297, y: -65.11176}
+        - {x: 30.970703, y: -65.11176}
+        - {x: 69.9707, y: -16.111763}
+        - {x: 69.9707, y: 55.888237}
+    - name: cowboy_7
+      rect:
+        serializedVersion: 2
+        x: 5855
+        y: 94
+        width: 514
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.490234, y: -47.907845}
+        - {x: 14.490234, y: -59.907845}
+        - {x: 23.490234, y: -68.907845}
+        - {x: 40.490234, y: -68.907845}
+        - {x: 65.490234, y: -25.907845}
+        - {x: 65.490234, y: 70.092155}
+        - {x: -48.509766, y: 70.092155}
+        - {x: -64.509766, y: 62.092155}
+        - {x: -64.509766, y: -36.907845}
+        - {x: -62.509766, y: -41.907845}
+        - {x: -1.5097656, y: -68.907845}
+        - {x: 10.490234, y: -68.907845}
+        - {x: 15.490234, y: -64.907845}
+        - {x: 14.490234, y: -59.907845}
+        - {x: 12.490234, y: -57.907845}
+    - name: cowboy_8
+      rect:
+        serializedVersion: 2
+        x: 6620
+        y: 157
+        width: 550
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.009766, y: 65.90392}
+        - {x: -69.009766, y: 26.903923}
+        - {x: -69.009766, y: -41.096077}
+        - {x: -47.009766, y: -65.09608}
+        - {x: 32.990234, y: -65.09608}
+        - {x: 69.990234, y: -27.096077}
+        - {x: 69.990234, y: 60.903923}
+        - {x: 47.990234, y: 65.90392}
+    - name: cowboy_9
+      rect:
+        serializedVersion: 2
+        x: 7501
+        y: 173
+        width: 518
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.895996, y: 69.91961}
+        - {x: -64.895996, y: 46.91961}
+        - {x: -64.895996, y: -37.08039}
+        - {x: -30.895996, y: -69.08039}
+        - {x: 64.104004, y: -69.08039}
+        - {x: 66.104004, y: -60.08039}
+        - {x: 66.104004, y: 47.91961}
+        - {x: 31.104004, y: 69.91961}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

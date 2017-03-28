@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 1cb9c838115064b419cfc2f70468b18c
+timeCreated: 1462874988
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mage_0
+    21300002: mage_1
+    21300004: mage_2
+    21300006: mage_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mage_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 288
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -208}
+        - {x: 89, y: -190}
+        - {x: 53, y: -85}
+        - {x: 94, y: -192}
+        - {x: 96, y: -194}
+        - {x: 112, y: -194}
+        - {x: 114, y: -192}
+        - {x: 144, y: -33}
+        - {x: 144, y: 50}
+        - {x: 128, y: 66}
+        - {x: 80, y: 66}
+        - {x: 62, y: 52}
+        - {x: 54, y: 26}
+        - {x: 65, y: 76}
+        - {x: 79, y: 103}
+        - {x: -8, y: 207}
+        - {x: -11, y: 208}
+        - {x: -76, y: 208}
+        - {x: -144, y: 120}
+        - {x: -144, y: -186}
+        - {x: -99, y: -208}
+        - {x: -62, y: -208}
+        - {x: -62, y: -192}
+        - {x: -64, y: -190}
+        - {x: -19, y: -208}
+    - name: mage_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 288
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -194}
+        - {x: 114, y: -192}
+        - {x: 121, y: 5}
+        - {x: 144, y: 20}
+        - {x: 144, y: 50}
+        - {x: 128, y: 66}
+        - {x: 80, y: 66}
+        - {x: 62, y: 52}
+        - {x: 54, y: 26}
+        - {x: 19, y: 2}
+        - {x: 65, y: 76}
+        - {x: 79, y: 103}
+        - {x: -8, y: 207}
+        - {x: -11, y: 208}
+        - {x: -76, y: 208}
+        - {x: -144, y: 120}
+        - {x: -144, y: -189}
+        - {x: -55, y: -208}
+        - {x: 14, y: -208}
+        - {x: 69, y: -178}
+        - {x: 66, y: -123}
+        - {x: 94, y: -197}
+    - name: mage_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 336
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -208}
+        - {x: 57, y: -186}
+        - {x: 67, y: -71}
+        - {x: 168, y: -2}
+        - {x: 168, y: 44}
+        - {x: 139, y: 72}
+        - {x: 104, y: 66}
+        - {x: 102, y: 64}
+        - {x: 86, y: 3}
+        - {x: -5, y: 3}
+        - {x: 41, y: 76}
+        - {x: 55, y: 103}
+        - {x: -32, y: 207}
+        - {x: -35, y: 208}
+        - {x: -100, y: 208}
+        - {x: -168, y: 120}
+        - {x: -168, y: -186}
+        - {x: -123, y: -208}
+        - {x: -86, y: -208}
+        - {x: -86, y: -192}
+        - {x: -88, y: -190}
+        - {x: -43, y: -208}
+    - name: mage_3
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 48
+        width: 288
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -216}
+        - {x: 18, y: -200}
+        - {x: 16, y: -198}
+        - {x: 69, y: -170}
+        - {x: 66, y: -115}
+        - {x: 94, y: -189}
+        - {x: 112, y: -186}
+        - {x: 114, y: -184}
+        - {x: 144, y: -25}
+        - {x: 144, y: 58}
+        - {x: 128, y: 74}
+        - {x: 80, y: 74}
+        - {x: 62, y: 60}
+        - {x: 54, y: 34}
+        - {x: 65, y: 84}
+        - {x: 79, y: 111}
+        - {x: -8, y: 215}
+        - {x: -11, y: 216}
+        - {x: -76, y: 216}
+        - {x: -144, y: 128}
+        - {x: -144, y: -181}
+        - {x: -94, y: -216}
+        - {x: -62, y: -216}
+        - {x: -62, y: -200}
+        - {x: -64, y: -198}
+        - {x: -4, y: -216}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

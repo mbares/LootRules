@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: bf2e34d1198a96c438667820e822285b
+timeCreated: 1465388093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonHead_0
+    21300002: dragonHead_1
+    21300004: dragonHead_2
+    21300006: dragonHead_3
+    21300008: dragonHead_4
+    21300010: dragonHead_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragonHead_0
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1243
+        width: 439
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.807526, y: 35.439987}
+        - {x: -23.192474, y: 35.439987}
+        - {x: -31.192474, y: 25.439987}
+        - {x: -31.192474, y: -11.560013}
+        - {x: -19.192474, y: -34.560013}
+        - {x: 13.807526, y: -34.560013}
+        - {x: 29.807526, y: -16.560013}
+        - {x: 31.807526, y: -4.560013}
+        - {x: 31.807526, y: 23.439987}
+    - name: dragonHead_1
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 1194
+        width: 446
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.474762, y: 39.024002}
+        - {x: -31.474762, y: -26.975998}
+        - {x: -20.474762, y: -37.975998}
+        - {x: 13.525238, y: -37.975998}
+        - {x: 31.525238, y: -19.975998}
+        - {x: 31.525238, y: 39.024002}
+    - name: dragonHead_2
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 1258
+        width: 842
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.233032, y: 36.557114}
+        - {x: -59.233032, y: 31.557114}
+        - {x: -59.233032, y: -7.4428864}
+        - {x: -46.233032, y: -28.442886}
+        - {x: -37.233032, y: -35.442886}
+        - {x: 55.766968, y: -35.442886}
+        - {x: 60.766968, y: -26.442886}
+        - {x: 60.766968, y: -4.4428864}
+        - {x: 13.766968, y: 36.557114}
+    - name: dragonHead_3
+      rect:
+        serializedVersion: 2
+        x: 7853
+        y: 1258
+        width: 842
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.391113, y: 22.557114}
+        - {x: 27.391113, y: 22.557114}
+        - {x: 30.391113, y: 26.557114}
+        - {x: 31.391113, y: 34.557114}
+        - {x: 30.391113, y: 36.557114}
+        - {x: 7.3911133, y: 36.557114}
+        - {x: -16.608887, y: 23.557114}
+        - {x: -56.608887, y: -1.4428864}
+        - {x: -59.608887, y: -8.442886}
+        - {x: -59.608887, y: -27.442886}
+        - {x: -54.608887, y: -35.442886}
+        - {x: 46.391113, y: -35.442886}
+        - {x: 60.391113, y: -25.442886}
+        - {x: 60.391113, y: 20.557114}
+        - {x: 36.391113, y: 22.557114}
+    - name: dragonHead_4
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 1215
+        width: 842
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.450806, y: 39.48799}
+        - {x: -59.450806, y: 21.487991}
+        - {x: -59.450806, y: -5.5120087}
+        - {x: -51.450806, y: -21.512009}
+        - {x: -37.450806, y: -38.51201}
+        - {x: 59.549194, y: -38.51201}
+        - {x: 59.549194, y: -0.51200867}
+        - {x: -6.4508057, y: 39.48799}
+    - name: dragonHead_5
+      rect:
+        serializedVersion: 2
+        x: 12681
+        y: 1215
+        width: 842
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8265381, y: 39.48799}
+        - {x: -58.173462, y: 14.487991}
+        - {x: -58.173462, y: -38.51201}
+        - {x: 41.826538, y: -38.51201}
+        - {x: 60.826538, y: -18.512009}
+        - {x: 60.826538, y: 21.487991}
+        - {x: 40.826538, y: 39.48799}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 907e482a3e94c93458e4e099507a60ad
+timeCreated: 1465914294
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonBody (1)_0
+    21300002: dragonBody (1)_1
+    21300004: dragonBody (1)_2
+    21300006: dragonBody (1)_3
+    21300008: dragonBody (1)_4
+    21300010: dragonBody (1)_5
+    21300012: dragonBody (1)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragonBody (1)_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 92
+        width: 2360
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 50.5}
+        - {x: 124.5, y: 104.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 71.5, y: 138.5}
+        - {x: 46.5, y: 48.5}
+        - {x: 27.5, y: 71.5}
+        - {x: -22.5, y: 80.5}
+        - {x: -35.5, y: 39.5}
+        - {x: -71.5, y: 136.5}
+        - {x: -74.5, y: 138.5}
+        - {x: -84.5, y: 138.5}
+        - {x: -127.5, y: 107.5}
+        - {x: -147.5, y: 41.5}
+        - {x: -147.5, y: -36.5}
+        - {x: -127.5, y: -85.5}
+        - {x: -107.5, y: -105.5}
+        - {x: -73.5, y: -106.5}
+        - {x: -75.5, y: -131.5}
+        - {x: -66.5, y: -137.5}
+        - {x: -4.5, y: -137.5}
+        - {x: 33.5, y: -135.5}
+        - {x: 45.5, y: -137.5}
+        - {x: 81.5, y: -137.5}
+        - {x: 145.5, y: -74.5}
+        - {x: 148.5, y: -50.5}
+    - name: dragonBody (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 92
+        width: 2360
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 50.5}
+        - {x: 124.5, y: 104.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 72.5, y: 138.5}
+        - {x: 66.5, y: 99.5}
+        - {x: 28.5, y: 61.5}
+        - {x: 13.5, y: 75.5}
+        - {x: -23.5, y: 80.5}
+        - {x: -36.5, y: 41.5}
+        - {x: -71.5, y: 136.5}
+        - {x: -74.5, y: 138.5}
+        - {x: -84.5, y: 138.5}
+        - {x: -127.5, y: 107.5}
+        - {x: -147.5, y: 41.5}
+        - {x: -147.5, y: -52.5}
+        - {x: -110.5, y: -114.5}
+        - {x: -73.5, y: -106.5}
+        - {x: -75.5, y: -131.5}
+        - {x: -66.5, y: -137.5}
+        - {x: -4.5, y: -137.5}
+        - {x: 33.5, y: -135.5}
+        - {x: 45.5, y: -137.5}
+        - {x: 81.5, y: -137.5}
+        - {x: 145.5, y: -74.5}
+        - {x: 148.5, y: -50.5}
+    - name: dragonBody (1)_2
+      rect:
+        serializedVersion: 2
+        x: 4860
+        y: 92
+        width: 2360
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 50.5}
+        - {x: 124.5, y: 104.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 71.5, y: 138.5}
+        - {x: 34.5, y: 38.5}
+        - {x: 19.5, y: 91.5}
+        - {x: 8.5, y: 102.5}
+        - {x: -8.5, y: 104.5}
+        - {x: -37.5, y: 46.5}
+        - {x: -54.5, y: 102.5}
+        - {x: -71.5, y: 138.5}
+        - {x: -99.5, y: 138.5}
+        - {x: -127.5, y: 106.5}
+        - {x: -147.5, y: 41.5}
+        - {x: -147.5, y: -52.5}
+        - {x: -110.5, y: -114.5}
+        - {x: -73.5, y: -106.5}
+        - {x: -75.5, y: -131.5}
+        - {x: -66.5, y: -137.5}
+        - {x: -4.5, y: -137.5}
+        - {x: 33.5, y: -135.5}
+        - {x: 45.5, y: -137.5}
+        - {x: 81.5, y: -137.5}
+        - {x: 145.5, y: -74.5}
+        - {x: 148.5, y: -50.5}
+    - name: dragonBody (1)_3
+      rect:
+        serializedVersion: 2
+        x: 7276
+        y: 92
+        width: 2360
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 48.5}
+        - {x: 136.5, y: 72.5}
+        - {x: 124.5, y: 104.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 71.5, y: 138.5}
+        - {x: 41.5, y: 55.5}
+        - {x: 1.5, y: 80.5}
+        - {x: -41.5, y: 64.5}
+        - {x: -71.5, y: 136.5}
+        - {x: -74.5, y: 138.5}
+        - {x: -84.5, y: 138.5}
+        - {x: -127.5, y: 107.5}
+        - {x: -147.5, y: 41.5}
+        - {x: -147.5, y: -36.5}
+        - {x: -127.5, y: -85.5}
+        - {x: -107.5, y: -105.5}
+        - {x: -73.5, y: -106.5}
+        - {x: -75.5, y: -131.5}
+        - {x: -66.5, y: -137.5}
+        - {x: -4.5, y: -137.5}
+        - {x: 33.5, y: -135.5}
+        - {x: 45.5, y: -137.5}
+        - {x: 81.5, y: -137.5}
+        - {x: 145.5, y: -74.5}
+        - {x: 148.5, y: -50.5}
+    - name: dragonBody (1)_4
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 92
+        width: 2360
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 48.5}
+        - {x: 136.5, y: 72.5}
+        - {x: 124.5, y: 104.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 71.5, y: 138.5}
+        - {x: 41.5, y: 55.5}
+        - {x: 1.5, y: 80.5}
+        - {x: -41.5, y: 64.5}
+        - {x: -71.5, y: 136.5}
+        - {x: -74.5, y: 138.5}
+        - {x: -84.5, y: 138.5}
+        - {x: -127.5, y: 107.5}
+        - {x: -147.5, y: 41.5}
+        - {x: -147.5, y: -36.5}
+        - {x: -127.5, y: -85.5}
+        - {x: -107.5, y: -105.5}
+        - {x: -73.5, y: -106.5}
+        - {x: -75.5, y: -131.5}
+        - {x: -66.5, y: -137.5}
+        - {x: -4.5, y: -137.5}
+        - {x: 33.5, y: -135.5}
+        - {x: 45.5, y: -137.5}
+        - {x: 81.5, y: -137.5}
+        - {x: 145.5, y: -74.5}
+        - {x: 148.5, y: -50.5}
+    - name: dragonBody (1)_5
+      rect:
+        serializedVersion: 2
+        x: 12108
+        y: 92
+        width: 2360
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.5, y: 48.5}
+        - {x: 136.5, y: 72.5}
+        - {x: 124.5, y: 104.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 71.5, y: 138.5}
+        - {x: 46.5, y: 48.5}
+        - {x: -0.5, y: 83.5}
+        - {x: -43.5, y: 50.5}
+        - {x: -54.5, y: 102.5}
+        - {x: -71.5, y: 138.5}
+        - {x: -99.5, y: 138.5}
+        - {x: -127.5, y: 106.5}
+        - {x: -147.5, y: 41.5}
+        - {x: -147.5, y: -36.5}
+        - {x: -127.5, y: -85.5}
+        - {x: -107.5, y: -105.5}
+        - {x: -73.5, y: -106.5}
+        - {x: -75.5, y: -131.5}
+        - {x: -66.5, y: -137.5}
+        - {x: -4.5, y: -137.5}
+        - {x: 33.5, y: -135.5}
+        - {x: 45.5, y: -137.5}
+        - {x: 81.5, y: -137.5}
+        - {x: 145.5, y: -74.5}
+        - {x: 148.5, y: -50.5}
+    - name: dragonBody (1)_6
+      rect:
+        serializedVersion: 2
+        x: 14524
+        y: 92
+        width: 1860
+        height: 2200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: 138.5}
+        - {x: 105, y: 138.5}
+        - {x: 78, y: 48.5}
+        - {x: 31, y: 83.5}
+        - {x: -12, y: 50.5}
+        - {x: -23, y: 102.5}
+        - {x: -40, y: 138.5}
+        - {x: -71, y: 138.5}
+        - {x: -101, y: 109.5}
+        - {x: -116, y: 47.5}
+        - {x: -116, y: -59.5}
+        - {x: -79, y: -114.5}
+        - {x: -35, y: -137.5}
+        - {x: 107, y: -137.5}
+        - {x: 107, y: -127.5}
+        - {x: 117, y: -79.5}
+        - {x: 117, y: 133.5}
+      - - {x: 113, y: -88.5}
+        - {x: 111, y: -91.5}
+        - {x: 111, y: -102.5}
+        - {x: 112, y: -104.5}
+        - {x: 117, y: -104.5}
+        - {x: 117, y: -88.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

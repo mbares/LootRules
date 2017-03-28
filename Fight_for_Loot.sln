@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FEA64691-F07E-EA3E-1909-F16622101884}") = "Fight_for_Loot", "Assembly-CSharp.csproj", "{1EC00565-F443-8FBB-9607-2728EECD3703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC00565-F443-8FBB-9607-2728EECD3703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC00565-F443-8FBB-9607-2728EECD3703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC00565-F443-8FBB-9607-2728EECD3703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC00565-F443-8FBB-9607-2728EECD3703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
